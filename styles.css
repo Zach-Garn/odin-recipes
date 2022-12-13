@@ -1,0 +1,10 @@
+.header {
+    font-family: 'papyrus', 'Times New Roman';
+    color: cadetblue;
+}
+
+button {
+    background-color: rgb(155, 153, 153);
+    color: black;
+    font-weight: bold;
+}
