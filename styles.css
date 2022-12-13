@@ -3,14 +3,31 @@
     color: cadetblue;
 }
 
+.home {
+    text-align: center;
+    font-size: 60px;
+}
+
 button {
     background-color: rgb(155, 153, 153);
     color: black;
     font-weight: bold;
 }
 
-.sticky {
-	position: -webkit-sticky;
-	position: sticky;
-	top: 0;
+.link-img {
+    height: auto;
+    width: 300px;
+}
+
+.container{
+    text-align:center;
+    
+}
+
+.link-img {
+    display: inline-flex;
+    margin:5px 20px;
+    padding:5px;
+    
+    border:1px solid #CCC;
 }
