@@ -21,13 +21,19 @@ button {
 
 .container{
     text-align:center;
+    justify-content: space-between;
+    display: flex;
+    flex-direction: column;
     
 }
 
 .link-img {
-    display: inline-flex;
-    margin:5px 20px;
-    padding:5px;
-    
-    border:1px solid #CCC;
+    flex: 1; 
+    margin-bottom: 18px;
+    margin-top: 5px;
+    padding:10px;
+    border:2px solid #CCC;
+}
+strong {
+    font-size: 20px;
 }
